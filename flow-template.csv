@@ -1,0 +1,5 @@
+Note: check out the docs at https://docs.sablier.com/csv to learn more
+address,rate,interval,initialDeposit
+0xf31b00e025584486f7c37Cf0AE0073c97c12c634,1000,year,2000
+0xf31b00e025584486f7c37Cf0AE0073c97c12c634,500,month,1000
+0xf31b00e025584486f7c37Cf0AE0073c97c12c634,100,day,0
