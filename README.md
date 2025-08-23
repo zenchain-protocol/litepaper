@@ -13,11 +13,10 @@ Zenchain supports the Ethereum Virtual Machine (EVM) for smart contracts and int
 - **ZIP-20 Token Standard**: A versatile token standard that supports asset management across external blockchains, including bridges, over-collateralization, and governance mechanisms.
 - **Niō AI Security**: An AI-powered system that continuously monitors the network for potential threats, ensuring a secure and resilient environment for users and developers.
 
-### Download Formats
+### 📄 Litepaper Downloads
 
-The Zenchain Litepaper is available for download:
-
-- **[Downloadable Version via Google Drive](https://drive.google.com/file/d/18e242pCEhTeS_l2X7FfVOhZ2XiaOwQw4/view?usp=sharing)**  
+- **[Latest Litepaper (v1.5, August 2025)](https://github.com/zenchain-protocol/litepaper/releases/latest)**  
+- **[Downloadable Version via Google Drive](https://drive.google.com/file/d/18e242pCEhTeS_l2X7FfVOhZ2XiaOwQw4/view?usp=sharing)**
 
 This README provides just a brief glimpse into Zenchain’s capabilities. For a more comprehensive understanding of the technology, including its architecture, consensus mechanisms, and security features, we recommend reading latest versions of Zenchain Litepaper, the technical documentation and quarterly updates on the official website during each release.
 
