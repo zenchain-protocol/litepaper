@@ -15,8 +15,8 @@ Zenchain supports the Ethereum Virtual Machine (EVM) for smart contracts and int
 
 ### 📄 Litepaper Downloads
 
-- **[Latest Litepaper (v1.5, August 2025)](https://github.com/zenchain-protocol/litepaper/releases/latest)**  
-- **[Downloadable Version via Google Drive](https://drive.google.com/file/d/18e242pCEhTeS_l2X7FfVOhZ2XiaOwQw4/view?usp=sharing)**
+- **[Latest Litepaper](https://github.com/zenchain-protocol/litepaper/releases/latest)**  
+- **[Downloadable Version via Google Drive](https://drive.google.com/file/d/1hwBw99dmDhGxnsdvHJXcClC2QpOnkqPp/view?usp=share_link)**
 
 This README provides just a brief glimpse into Zenchain’s capabilities. For a more comprehensive understanding of the technology, including its architecture, consensus mechanisms, and security features, we recommend reading latest versions of Zenchain Litepaper, the technical documentation and quarterly updates on the official website during each release.
 
